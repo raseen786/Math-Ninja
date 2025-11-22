@@ -3,7 +3,7 @@ import './styles/ninjaTheme.css';
 
 function App() {
   return (
-    <Home></Home>
+    <></>
   );
 }
 
