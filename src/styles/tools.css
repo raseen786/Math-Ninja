@@ -1,0 +1,29 @@
+.tools-container {
+  background-color: #000;
+  color: #f0f0f0;
+  padding: 2rem;
+  text-align: center;
+  min-height: 100vh;
+}
+
+.card-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 1.5rem;
+  padding: 0 1rem;
+}
+
+.ninja-card {
+  background-color: #111;
+  border: 2px solid #00ffcc;
+  border-radius: 12px;
+  padding: 1.5rem;
+  text-decoration: none;
+  color: #f0f0f0;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.ninja-card:hover {
+  transform: scale(1.05);
+  box-shadow: 0 0 15px #00ffcc;
+}
