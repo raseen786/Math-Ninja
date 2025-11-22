@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.71bb16c7.css",
-    "main.js": "/static/js/main.471d276a.js",
-    "static/js/453.3005c2b1.chunk.js": "/static/js/453.3005c2b1.chunk.js",
-    "index.html": "/index.html",
-    "main.71bb16c7.css.map": "/static/css/main.71bb16c7.css.map",
-    "main.471d276a.js.map": "/static/js/main.471d276a.js.map",
-    "453.3005c2b1.chunk.js.map": "/static/js/453.3005c2b1.chunk.js.map"
+    "main.css": "/Math-Ninja/static/css/main.71bb16c7.css",
+    "main.js": "/Math-Ninja/static/js/main.339e7769.js",
+    "static/js/453.3005c2b1.chunk.js": "/Math-Ninja/static/js/453.3005c2b1.chunk.js",
+    "index.html": "/Math-Ninja/index.html",
+    "main.71bb16c7.css.map": "/Math-Ninja/static/css/main.71bb16c7.css.map",
+    "main.339e7769.js.map": "/Math-Ninja/static/js/main.339e7769.js.map",
+    "453.3005c2b1.chunk.js.map": "/Math-Ninja/static/js/453.3005c2b1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.71bb16c7.css",
-    "static/js/main.471d276a.js"
+    "static/js/main.339e7769.js"
   ]
 }
