@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Math-Ninja/static/css/main.daf99b37.css",
-    "main.js": "/Math-Ninja/static/js/main.131e19a8.js",
+    "main.js": "/Math-Ninja/static/js/main.dd495518.js",
     "static/js/453.3005c2b1.chunk.js": "/Math-Ninja/static/js/453.3005c2b1.chunk.js",
     "index.html": "/Math-Ninja/index.html",
     "main.daf99b37.css.map": "/Math-Ninja/static/css/main.daf99b37.css.map",
-    "main.131e19a8.js.map": "/Math-Ninja/static/js/main.131e19a8.js.map",
+    "main.dd495518.js.map": "/Math-Ninja/static/js/main.dd495518.js.map",
     "453.3005c2b1.chunk.js.map": "/Math-Ninja/static/js/453.3005c2b1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.daf99b37.css",
-    "static/js/main.131e19a8.js"
+    "static/js/main.dd495518.js"
   ]
 }
